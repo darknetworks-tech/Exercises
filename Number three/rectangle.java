@@ -48,17 +48,7 @@ public class rectangle extends Shape{
 
 
 
-    /*
-    private double length;
-    private double breadth;
-
-    public double getArea(){
-
-        return length*breadth;
-
-    }
-
-     */
+  
 
 
 
