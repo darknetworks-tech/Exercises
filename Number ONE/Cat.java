@@ -20,14 +20,6 @@ public class Cat extends animal{
 
 
 
-   /*
-    @Override
-
-    void makeSound(){
-       System.out.println("I am meowing");
-   }
-
-    */
 
 
 
